@@ -1,0 +1,14 @@
+{
+  "name": "archiveproj",
+  "version": "1.0.0",
+  "description": "Archive all first party links as they get discovered",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "andandy12",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^10.0.0"
+  }
+}
